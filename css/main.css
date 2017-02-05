@@ -231,6 +231,18 @@ p.paragraph {
 	max-width: 100%;
 	margin-top: 45px;
 }
+
+.img {
+	position: relative;
+}
+
+.img h1{
+	position: absolute;
+	right: 50%;
+	top: 50%;
+	transform: translateX(50%) translateY(-50%);
+}
+
 .socialproof .logos {
 	flex-wrap: wrap;
 }
