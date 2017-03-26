@@ -1,0 +1,85 @@
+body{
+    background-image: url("../img/background.png");
+}
+
+h1{
+  font-family: "summerhearts-regular";
+  font-size: 72px;
+}
+
+h2{
+  font-family: "bebasneue";
+  letter-spacing: 1px;
+  font-size: 40px;
+}
+
+h3{
+  font-family: "bebasneue";
+  letter-spacing: 1px;
+  font-size: 28px;
+}
+
+
+p{
+  font-family: "sourcesanspro-regular";
+  font-size: 18px;
+  word-break: normal;
+  line-height: 1.5;
+}
+
+hr{
+  width: 30%;
+}
+
+.navbar{
+  width: 100%;
+  opacity: 0.9;
+  background-color: rgba(255,255,255,0.7);
+  margin-bottom: 5px;
+}
+
+
+.navbar-nav>li>a {
+    font-family: "bebasneue";
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    color: rgba(0,0,0,0.70);
+    text-shadow: none;
+}
+
+
+
+#logo{
+  height: 50px;
+  width: auto;
+}
+
+.introPage{
+  height: 100%;
+  width: 100%;
+}
+
+#intro {
+  position: absolute;
+  right: 50%;
+  top: 60%;
+  transform: translate(50%,-50%);
+  text-align: center;
+  color: rgb(255,255,255);
+}
+
+#exhibition{
+  padding: 30px;
+}
+
+.section{
+    margin:40px;
+    overflow: scroll-y;
+    margin-top: 60px;
+}
+
+.para{
+  margin-left: 40px;
+  word-wrap: normal;
+  width: inherit;
+}
