@@ -1,5 +1,7 @@
 body{
     background-image: url("../img/background.png");
+    height: 100%;
+    overflow: no-scroll;
 }
 
 h1{

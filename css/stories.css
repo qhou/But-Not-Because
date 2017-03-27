@@ -12,7 +12,7 @@ h2{
   font-family: "summerhearts-regular";
   letter-spacing: 1px;
   font-size: 40px;
-  color: rgba(255,255,255,0.90);
+  color: rgba(255,255,255,0.9);
   padding-bottom: 30px;
 }
 
@@ -25,6 +25,23 @@ p{
   color: rgba(255,255,255,0.45);
 }
 
+.modal-paragraph{
+  font-family: "sourcesanspro-regular";
+  font-size: 16px;
+  word-break: normal;
+  line-height: 1.5;
+  color: rgba(0,0,0,0.75);
+}
+
+.modal-title{
+  color: rgba(0,0,0,0.9);
+}
+
 .navbar-nav>li>a {
     color: rgba(255,255,255,0.70);
+}
+
+.well{
+  background: rgba(255,255,255,0.4);
+  border: none;
 }
