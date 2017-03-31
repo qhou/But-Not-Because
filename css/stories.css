@@ -9,16 +9,23 @@ body{
 
 
 h2{
-  font-family: "summerhearts-regular";
+  font-family: 'Permanent Marker', cursive;
   letter-spacing: 1px;
   font-size: 40px;
   color: rgba(255,255,255,0.9);
   padding-bottom: 30px;
 }
 
+h3{
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 1px;
+  font-size: 20px;
+  padding: 0px;
+}
+
 
 p{
-  font-family: "sourcesanspro-regular";
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
   word-break: normal;
   line-height: 1.5;
@@ -26,7 +33,7 @@ p{
 }
 
 .modal-paragraph{
-  font-family: "sourcesanspro-regular";
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   word-break: normal;
   line-height: 1.5;

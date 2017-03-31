@@ -5,25 +5,25 @@ body{
 }
 
 h1{
-  font-family: "summerhearts-regular";
+  font-family: 'Permanent Marker', cursive;
   font-size: 72px;
 }
 
 h2{
-  font-family: "bebasneue";
+  font-family: 'Anton', sans-serif;
   letter-spacing: 1px;
   font-size: 40px;
 }
 
 h3{
-  font-family: "bebasneue";
+  font-family: 'Anton', sans-serif;
   letter-spacing: 1px;
-  font-size: 28px;
+  font-size: 22Px;
 }
 
 
 p{
-  font-family: "sourcesanspro-regular";
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   word-break: normal;
   line-height: 1.5;
@@ -42,9 +42,9 @@ hr{
 
 
 .navbar-nav>li>a {
-    font-family: "bebasneue";
+    font-family: 'Anton', sans-serif;
     font-size: 18px;
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
     color: rgba(0,0,0,0.70);
     text-shadow: none;
 }
