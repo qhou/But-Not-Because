@@ -1,7 +1,6 @@
 {
   "name": "but-not-because",
   "title": "but-not-because",
-  "version": "0.0",
   "homepage": "https://github.com/qhou/but-not-because.git",
   "author": "Quinn Hou",
   "license": "MIT",
@@ -11,8 +10,5 @@
     "font-awesome": "^4.6.3",
     "jquery": "^1.11.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/qhou/but-not-because.git"
-  }
+  "repository": "https://github.com/qhou/but-not-because.git"
 }
